@@ -1,1 +1,2 @@
+added the line to check conflict from master branch 
 this is for learning branch
