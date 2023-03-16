@@ -1,2 +1,1 @@
-this is for learning branch
-adding the line to create conflict from feature branch
+added new line from feature branch 
